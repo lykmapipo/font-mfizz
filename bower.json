@@ -1,14 +1,14 @@
 {
     "name": "font-mfizz",
     "description": "Font Mfizz",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "keywords": [],
     "homepage": "http://fizzed.com/oss/font-mfizz",
     "dependencies": {},
     "devDependencies": {},
     "license": "MIT",
     "main": [
-        "dist/font-mfizz.css"
+        "dist/css/font-mfizz.css"
     ],
     "ignore": [
         "*/.*",

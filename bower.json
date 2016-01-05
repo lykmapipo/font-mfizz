@@ -1,17 +1,17 @@
 {
-  "name": "font-mfizz",
-  "description": "Font Mfizz",
-  "version": "2.0.0",
-  "keywords": [],
-  "homepage": "http://fizzed.com/oss/font-mfizz",
-  "dependencies": {},
-  "devDependencies": {},
-  "license": "MIT",
-  "main": [
-    "./dist/font-mfizz.*"
-  ],
-  "ignore": [
-    "*/.*",
-    "bower.json"
-  ]
+    "name": "font-mfizz",
+    "description": "Font Mfizz",
+    "version": "2.0.1",
+    "keywords": [],
+    "homepage": "http://fizzed.com/oss/font-mfizz",
+    "dependencies": {},
+    "devDependencies": {},
+    "license": "MIT",
+    "main": [
+        "dist/font-mfizz.css"
+    ],
+    "ignore": [
+        "*/.*",
+        "bower.json"
+    ]
 }
